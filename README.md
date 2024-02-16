@@ -7,6 +7,6 @@
 
 </td><td align="top" width="45%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzz19980125&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzz19980125&layout=compact&theme=buefy)
 
 </td></tr></table>
