@@ -3,10 +3,10 @@
 <table><tr><td align="center" width="55%">
 
 
-![Zezhong Li's github stats](https://github-readme-stats.vercel.app/api?username=lzz19980125&count_private=true&show_icons=true&theme=city_lights)
+![Zezhong Li's github stats](https://github-readme-stats.vercel.app/api?username=lzz19980125&count_private=true&show_icons=true&theme=github_dark_dimmed)
 
 </td><td align="top" width="45%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzz19980125&layout=compact&theme=city_lights)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzz19980125&layout=compact&theme=github_dark_dimmed)
 
 </td></tr></table>
