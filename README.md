@@ -11,14 +11,14 @@
 <table><tr><td align="center" width="55%">
 
 
-![Zezhong Li's github stats](https://github-readme-stats.vercel.app/api?username=lzz19980125&count_private=true&show_icons=true&theme=github-dark-dimmed)
+![Zezhong Li's github stats](https://github-readme-stats.vercel.app/api?username=lzz19980125&count_private=true&show_icons=true&theme=github_dark_dimmed)
 
 </td><td align="top" width="45%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzz19980125&layout=compact&theme=github-dark-dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzz19980125&layout=compact&theme=github_dark_dimmed)
 
 </td></tr></table>
 
 ## GitHub Trophies 🏆
 
-![](https://github-profile-trophy.vercel.app/?username=lzz19980125&theme=github-dark-dimmed&no-frame=false&no-bg=false&margin-w=1&column=6&row=1)
+![](https://github-profile-trophy.vercel.app/?username=lzz19980125&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=1&column=6&row=1)
