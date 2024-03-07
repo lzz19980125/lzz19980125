@@ -21,4 +21,4 @@
 
 ## GitHub Trophies 🏆
 
-![](https://github-profile-trophy.vercel.app/?username=lzz19980125&theme=nord&no-frame=false&no-bg=false&margin-w=1&column=6&row=1)
+![](https://github-profile-trophy.vercel.app/?username=lzz19980125&theme=nord&margin-w=5&column=6&row=1&no-frame=true&no-bg=false)
