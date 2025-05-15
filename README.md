@@ -1,4 +1,4 @@
-### Hi there, I'm Zezhong Li 👋
+### Hi there, I'm Bruce LEE 👋
 ## Contact 🌐
 ## GitHub Stats 📊
 
