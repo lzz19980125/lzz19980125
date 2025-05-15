@@ -6,7 +6,7 @@
 <table><tr><td align="center" width="55%">
 
 
-![Bruce LEE's github stats](https://github-readme-stats.vercel.app/api?username=lzz19980125&count_private=true&show_icons=true&theme=github_dark_dimmed)
+![Bruce LEE's github stats](https://github-readme-stats.vercel.app/api?username=lzz19980125&show_icons=true&theme=github_dark_dimmed)
 
 
 </td><td align="top" width="45%">
