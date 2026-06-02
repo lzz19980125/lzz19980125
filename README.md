@@ -8,7 +8,7 @@
 ![Bruce LEE's github stats](https://github-readme-stats.vercel.app/api?username=lzz19980125&show_icons=true&theme=github_dark_dimmed)
 
 
-</td><td align="top" width="45%">
+<!-- </td><td align="top" width="45%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzz19980125&layout=compact&theme=github_dark_dimmed)
 
@@ -16,4 +16,4 @@
 
 ## GitHub Trophies 🏆
 
-![](https://github-profile-trophy.vercel.app/?username=lzz19980125&theme=nord&margin-w=5&column=6&row=1&no-frame=true&no-bg=false)
+![](https://github-profile-trophy.vercel.app/?username=lzz19980125&theme=nord&margin-w=5&column=6&row=1&no-frame=true&no-bg=false) -->
