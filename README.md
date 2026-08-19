@@ -46,14 +46,14 @@
 
 ### 📈 Time-Series Intelligence
 
+* **[awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)**
+  A collection of research papers and resources on time-series segmentation.
+
 * **[awesome-multivariate-time-series-anomaly-detection-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms)**
   A curated collection of multivariate time-series anomaly detection algorithms.
 
 * **[awesome-multivariate-time-series-clustering-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-clustering-algorithms)**
   Resources and algorithms for multivariate time-series clustering.
-
-* **[awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)**
-  A collection of research papers and resources on time-series segmentation.
 
 ---
 
