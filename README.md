@@ -66,7 +66,6 @@
     alt="GitHub Streak"
   />
 </p>
----
 
 ## 🌱 Open Source
 
