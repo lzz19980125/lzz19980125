@@ -44,12 +44,6 @@
 * **[Hunyuan3D-2.1-Windows](https://github.com/lzz19980125/Hunyuan3D-2.1-Windows)**
   Hunyuan3D-2.1 related development and Windows adaptation.
 
-* **[3d-generator](https://github.com/lzz19980125/3d-generator)**
-  Experiments and tools for 3D generation.
-
-* **[Hunyuan3D-2.1-mesh-quality](https://github.com/lzz19980125/Hunyuan3D-2.1-mesh-quality)**
-  Experiments related to Hunyuan3D mesh generation and quality.
-
 ### 📈 Time-Series Intelligence
 
 * **[awesome-multivariate-time-series-anomaly-detection-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms)**
