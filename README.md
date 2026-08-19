@@ -1,5 +1,17 @@
 ### Hi there, I'm Bruce LEE 👋
 ## GitHub Stats 📊
 
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=lzz19980125&theme=github-dark-dimmed" />
-<table><tr><td align="center" width="55%">
+<table>
+<tr>
+<td align="center" width="55%">
+
+<img
+  alt="GitHub Streak"
+  width="98.3%"
+  align="center"
+  src="https://streak-stats.demolab.com/?user=lzz19980125&theme=github-dark-dimmed"
+/>
+
+</td>
+</tr>
+</table>
